@@ -12,3 +12,4 @@ console.log(User["email"])
 //for symbol also use [], 
 console.log(User[sym])
 Object.freeze(User) //User details gets saved
+//functions left see lecture at 3:56:00
